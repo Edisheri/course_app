@@ -7,10 +7,16 @@
 
 1. **Клонируйте репозиторий или скачайте и распакуйте архив.**
 2. **Установите виртуальное окружение (опционально, но рекомендуется)**:
+   # для Linux/Mac
+   ```
    python -m venv env
-   source env/bin/activate  # для Linux/Mac
+   source env/bin/activate
+   ```
+   # для Windows
+   ```
    env\Scripts\activate  # для Windows
-3. **Установка зависимостей**: 
+   ```
+4. **Установка зависимостей**: 
     ```
     pip install -r requirements.txt
     ```
