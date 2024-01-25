@@ -14,7 +14,7 @@
    ```
    # для Windows
    ```
-   env\Scripts\activate  # для Windows
+   env\Scripts\activate  
    ```
 4. **Установка зависимостей**: 
     ```
